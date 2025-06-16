@@ -1,4 +1,4 @@
-# Google link copier
+# Google link copier - Chrome extension
 
 fix clean google search results URL link
 
